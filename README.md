@@ -1,4 +1,4 @@
-![ml-8 1](https://github.com/jagadeeshreddy561/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120623104/25454ce6-f80a-4f19-9285-bb4a83b81426)# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+## Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
