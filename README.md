@@ -31,7 +31,7 @@ Select the best clustering solution: If the evaluation metrics allow for it, you
 
 ## Program:
 Program to implement the K Means Clustering for Customer Segmentation.
-## Developed by: Jagadeeshreddy
+## Developed by: Mallu Jagadeeswar Reddy
 ## RegisterNumber:212222240059  
 ```python
 
